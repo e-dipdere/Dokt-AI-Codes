@@ -1,2 +1,11 @@
 # Dokt-AI-Codes
-Source codes of my AI project.
+
+Here is some code examples of my Dokt AI project. 
+
+www.doktai.com
+
+\resources\views\layouts\index.blade.php
+
+and
+
+\resources\views\dashboard\app.blade.php
